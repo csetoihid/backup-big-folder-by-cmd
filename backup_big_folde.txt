@@ -1,0 +1,11 @@
+
+How to backup big folder in a short time by cmd ?
+
+Implementation:
+1. open cmd
+2. write  xcopy a: b: /s /e
+a= source folder location 
+b= destination folder 
+example : xcopy F:\xampp F:\xampp-bakup /s /e  
+
+Now enjoy super fast backup
